@@ -11,13 +11,23 @@ Quantitative Result:</br>
 <img src='images/MNIST_Result.PNG' width=250 height=300>
 
 Qualitative Result:</br>
-<img src='images/MNIST_Visual.PNG' width=700 height=300>
+(a) Ground Truth  </br> 
+(b) ConvLSTM (Modified) </br>
+(c) ConvLSTM Encoding-Forecasting </br>
+(d) Conv3D (Proposed) </br>
+(e) Conv3D Encoding-Forecasting (Proposed) </br>
+<img src='images/MNIST_Visual.PNG' width=700 height=300> </br>
 
 ### Moving Shapes
 Quantitative Result:</br>
 <img src='images/Shapes_Result.PNG' width=250 height=300>
 
 Qualitative Result:</br>
+(a) Ground Truth  </br> 
+(b) ConvLSTM (Modified) </br>
+(c) ConvLSTM Encoding-Forecasting </br>
+(d) Conv3D (Proposed) </br>
+(e) Conv3D Encoding-Forecasting (Proposed) </br>
 <img src='images/Shapes_Visual.PNG' width=700 height=300>
 
 ### To Reproduce Result
