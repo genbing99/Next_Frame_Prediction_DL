@@ -31,7 +31,7 @@ Qualitative Result:</br>
 <img src='images/Shapes_Visual.PNG' width=700 height=300>
 
 ### To Reproduce Result
-Please download the dataset at https://drive.google.com/drive/folders/10mqCXyCGlWw7HEa1RT-ZYx9j5mYC7yfh?usp=sharing, and placed in the required structure according to the dataset location for example:
+Please download the dataset at https://drive.google.com/drive/folders/1wVrS8c7rczY0Df_HVk_UBF7aBSPh806p?usp=sharing, and placed in the required structure according to the dataset location for example:
 >├─Moving_Shapes <br>
 >>├─Conv3D.ipynb <br>
 >>├─moving-shapes-3-te-images.npy <br>
@@ -41,7 +41,7 @@ Please download the dataset at https://drive.google.com/drive/folders/10mqCXyCGl
 >>├─moving-mnist-3-te-images.npy <br>
 
 Paper: https://drive.google.com/file/d/1JHIHGNiIP1zouaL_VW7iTmUfmBk_Eoz9/view?usp=sharing </br>
-Presentation Slides: https://drive.google.com/file/d/1O9KPaHwLM0fZeqjluMSLa7CtY_KA9qRR/view?usp=sharing </br>
+Presentation Slides: https://drive.google.com/file/d/1ceBigsug3rrbz7RERduFawXDA7zLhveK/view?usp=sharing </br>
 
 ### Note
 For VRNN, you have to run the VRNN_Train.ipynb to get the model weights before evaluation with VRNN_Test.ipynb.
