@@ -2,7 +2,7 @@
 
 A project for predicting future frames based on historical frames. Deep learning approaches are experimented in this project. We proposed Convolutional 3D Network with Encoding Forecasting Structure to deal with the next 20 frames prediction. 
 
-If you have any inquiries, please email me at genbing67@gmail.com or the collaborators, Ngiu Jin Tian Ci (j1nngiu@gmail.com) and Leow Yen Siang (yensiang99@hotmail.com).
+If you have any inquiries, please email me, Liong Gen Bing at genbing67@gmail.com or the collaborators, Ngiu Jin Tian Ci (j1nngiu@gmail.com) and Leow Yen Siang (yensiang99@hotmail.com).
 
 ## Result
 
